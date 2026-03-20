@@ -55,17 +55,18 @@
 ## skills for DFO operater
 + mermaid記法の習得
 + gitlab
-+ database
++ databaseの基礎的な体験、データが更新される、RDBの体験
 + 3Dプリンター
 + アルミフレーム設計
 + クリーン知識、異物測定、気流測定
 + SPC知識
 + MQTT知識
 + サーバーTTS
-+ IE
++ IE手法
 
 ## 生成AI活用
 + DFOの全員が活用提案できるレベル
+  + 人、ルールベースと異なるのは、大量のデータからサマリーを提示できる。何回もてわきる。
 
 ## Androidタブレットの活用
 + 品付レス
