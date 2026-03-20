@@ -9,7 +9,7 @@
 
 ## talk with AMR
 
-## AMRの意識
+## AMR predictable reaction
 
 
 ## Mermaid記法
