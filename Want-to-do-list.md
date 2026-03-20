@@ -33,13 +33,18 @@ flowchart TD
 ## シーケンス図（Sequence）
 ロボット制御の流れなどに便利です。
 
-
+graph TD
+    A[開始] --> B[処理]
+    B --> C[終了]
+```mermaid
 sequenceDiagram
     participant U as URロボット
     participant A as AMR
     U->>+A: 移動開始
     A-->>-U: 完了確認
     Note right of A: 座標更新
+```
+```mermaid
 classDiagram
     class Robot {
         -String name
@@ -48,5 +53,5 @@ classDiagram
     }
     class Sensor
     Robot <|-- Sensor
-
+```
 
