@@ -52,6 +52,18 @@
 ## gitlab
 + DFOの全員が使えるべきツール
 
+## skills for DFO operater
++ mermaid記法の習得
++ gitlab
++ database
++ 3Dプリンター
++ アルミフレーム設計
++ クリーン知識、異物測定、気流測定
++ SPC知識
++ MQTT知識
++ サーバーTTS
++ IE
+
 ## 生成AI活用
 + DFOの全員が活用提案できるレベル
 
