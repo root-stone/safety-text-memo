@@ -16,6 +16,8 @@
 ## Local LLM活用
 + know-how蓄積
 + sequential imageでAMRのリスク判定
+  + セマンティック処理
+  + IMU併用
 + catalog imageで仕掛台の異常検知
 + プロセス進捗の interpret
   + あの製品はどこまで処理が進んだ？
