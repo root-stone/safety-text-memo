@@ -50,6 +50,7 @@ classDiagram
     class Sensor
     Robot <|-- Sensor
 ```
+```mermaid
 gitgraph
    commit id: A1 tag: "local main (= origin/main)"
    branch fix/bugs
@@ -60,4 +61,5 @@ gitgraph
    note bottom : "git push origin main"
    checkout fix/bugs
    note right  : "git branch -d fix/bugs で削除"
+```
 
