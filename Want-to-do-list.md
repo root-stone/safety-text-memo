@@ -50,4 +50,14 @@ classDiagram
     class Sensor
     Robot <|-- Sensor
 ```
+gitgraph
+   commit id: A1 tag: "local main (= origin/main)"
+   branch fix/bugs
+   commit id: B1 tag: "VSCodeで修正・commit"
+   checkout main
+   merge fix/bugs tag: "マージ完了"
+   commit id: C1
+   note bottom : "git push origin main"
+   checkout fix/bugs
+   note right  : "git branch -d fix/bugs で削除"
 
