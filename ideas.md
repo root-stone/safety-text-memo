@@ -15,7 +15,9 @@
 + ポケベル
 
 ## Local LLM活用
++ どうやって労働させるか？ひたすらタスクを実行したい
 + know-how蓄積
++ 
 + sequential imageでAMRのリスク判定
   + セマンティック処理
   + IMU併用
