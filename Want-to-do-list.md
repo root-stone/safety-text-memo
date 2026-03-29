@@ -4,14 +4,18 @@
 + laser expression
 + rig
   + UR5e動かしたい
++ 一部にデカール貼り
++ テクスチャ貼り
++ マテリアルに詳しくなりたい
 
 ## Sony Spressense IMU
++ 使いこなし？
 
 ## talk with AMR
 
-## AMRの意識
+## AMR predictable reaction
 
-
+---
 ## Mermaid記法
 ```mermaid
 graph TD
