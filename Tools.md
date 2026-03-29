@@ -1,5 +1,8 @@
 ## 電光掲示板
 
++ AMR status display
++ 進入禁止
+
 ## SLS
 
 ## ToF距離計
